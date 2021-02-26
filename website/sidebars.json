@@ -1,0 +1,13 @@
+{
+  "docs": {
+    "Pocket angel": ["doc1"],
+    "Backend": [
+      "doc2",
+      "signalisation"
+    ],
+    "Frontend": ["doc3"]
+  },
+  "docs-other": {
+    "First Category": ["doc4", "doc5"]
+  }
+}
