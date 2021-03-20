@@ -5,6 +5,14 @@
     "previous": "Previous",
     "tagline": "Find out how Pocket angel was made",
     "docs": {
+      "API": {
+        "title": "API",
+        "sidebar_label": "API"
+      },
+      "customAuth": {
+        "title": "customAuth app",
+        "sidebar_label": "customAuth"
+      },
       "doc1": {
         "title": "Introduction",
         "sidebar_label": "The project"
