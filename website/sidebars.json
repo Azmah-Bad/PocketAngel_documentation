@@ -3,6 +3,7 @@
     "Pocket angel": ["doc1"],
     "Backend": [
       "doc2",
+      "customAuth",
       "signalisation"
     ],
     "Frontend": ["doc3"]

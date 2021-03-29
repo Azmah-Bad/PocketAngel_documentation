@@ -22,7 +22,7 @@
         "sidebar_label": "Introduction"
       },
       "doc3": {
-        "title": "This is document number 3"
+        "title": "Introduction"
       },
       "doc4": {
         "title": "Other Document"
@@ -37,6 +37,7 @@
     },
     "links": {
       "Docs": "Docs",
+      "API": "API",
       "Help": "Help"
     },
     "categories": {
